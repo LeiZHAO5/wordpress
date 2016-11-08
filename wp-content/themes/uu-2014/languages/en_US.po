@@ -1,0 +1,805 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UU2014\n"
+"POT-Creation-Date: 2015-04-06 18:39-0500\n"
+"PO-Revision-Date: 2015-04-11 00:44-0500\n"
+"Last-Translator: Dan Flippo <djf13@cornell.edu>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:45
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Try looking in the monthly archives. %1$s"
+
+#: comments.php:35 comments.php:52
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: comments.php:36 comments.php:53
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: content-image.php:27
+#, php-format
+msgid ""
+" at <a href=\"%1$s\" title=\"Link to full-size image\">%2$s &times; %3$s</a> "
+"in <a href=\"%4$s\" title=\"Return to %5$s\" rel=\"gallery\">%6$s</a>"
+msgstr ""
+" at <a href=\"%1$s\" title=\"Link to full-size image\">%2$s &times; %3$s</a> "
+"in <a href=\"%4$s\" title=\"Return to %5$s\" rel=\"gallery\">%6$s</a>"
+
+#: content-image.php:52 content.php:33
+#, php-format
+msgid "Finish Reading: <em>%s</em>"
+msgstr "Finish Reading: <em>%s</em>"
+
+#: content-image.php:55 content-page.php:18 content.php:36
+msgid "Pages:"
+msgstr "Pages:"
+
+#: content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: content-page.php:24 inc/template-tags.php:124
+#, php-format
+msgid "Edit: <em>%s</em>"
+msgstr "Edit: <em>%s</em>"
+
+#: footer.php:23
+msgid "http://uuwp.org/"
+msgstr "http://uuwp.org/"
+
+#: footer.php:23
+#, php-format
+msgid "WordPress Theme : %1$s"
+msgstr "WordPress Theme : %1$s"
+
+#: functions.php:62
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: functions.php:63
+msgid "Secondary menu in left sidebar"
+msgstr "Secondary menu in left sidebar"
+
+#: functions.php:93
+msgid "Bowling Green stained glass"
+msgstr "Bowling Green stained glass"
+
+#: functions.php:98
+msgid "Golden Bridge"
+msgstr "Golden Bridge"
+
+#: functions.php:103
+msgid "Bible on a Pew"
+msgstr "Bible on a Pew"
+
+#: functions.php:108
+msgid "Candles"
+msgstr "Candles"
+
+#: functions.php:113
+msgid "Stained Glass 2"
+msgstr "Stained Glass 2"
+
+#: functions.php:118
+msgid "Stained Glass 1"
+msgstr "Stained Glass 1"
+
+#: functions.php:123
+msgid "Sky"
+msgstr "Sky"
+
+#: functions.php:128
+msgid "Grunge"
+msgstr "Grunge"
+
+#: functions.php:133
+msgid "Grunge 2"
+msgstr "Grunge 2"
+
+#: functions.php:138
+msgid "Cherry Tree Path"
+msgstr "Cherry Tree Path"
+
+#: functions.php:143
+msgid "Lotus"
+msgstr "Lotus"
+
+#: functions.php:154
+msgid "Primary Sidebar"
+msgstr "Primary Sidebar"
+
+#: functions.php:156
+msgid "This widget area will appear as a sidebar on the left of every page."
+msgstr "This widget area will appear as a sidebar on the left of every page."
+
+#: functions.php:163
+msgid "Header Widget Area"
+msgstr "Header Widget Area"
+
+#: functions.php:165
+msgid ""
+"The theme can display a header widget area instead of the standard WordPress "
+"header image functionality.  The theme will still use the WordPress header "
+"image if no widgets are added.  You can use this area to easily add a "
+"slideshow widget as your header."
+msgstr ""
+"The theme can display a header widget area instead of the standard WordPress "
+"header image functionality.  The theme will still use the WordPress header "
+"image if no widgets are added.  You can use this area to easily add a "
+"slideshow widget as your header."
+
+#: functions.php:172
+msgid "Footer Widget Area"
+msgstr "Footer Widget Area"
+
+#: functions.php:174
+msgid ""
+"The theme can display a footer widget area at the bottom of the page.  The "
+"area will only appear if you add a widget.  You can use this area to easily "
+"add custom text and links to the footer."
+msgstr ""
+"The theme can display a footer widget area at the bottom of the page.  The "
+"area will only appear if you add a widget.  You can use this area to easily "
+"add custom text and links to the footer."
+
+#: functions.php:181
+msgid "Floating Widget Area"
+msgstr "Floating Widget Area"
+
+#: functions.php:183
+msgid ""
+"The theme can display a floating widget area to the right of pages and "
+"individual posts.  The area will only appear if you add a widget.  You can "
+"use this area to easily add sharing widgets to your pages."
+msgstr ""
+"The theme can display a floating widget area to the right of pages and "
+"individual posts.  The area will only appear if you add a widget.  You can "
+"use this area to easily add sharing widgets to your pages."
+
+#: functions.php:190
+msgid "Content Header Widget Area"
+msgstr "Content Header Widget Area"
+
+#: functions.php:192
+msgid ""
+"The theme can display widgets just before the main content of your page.  "
+"The area will only appear if you add a widget.  You can use this area to "
+"easily add sharing widgets to the top of your pages."
+msgstr ""
+"The theme can display widgets just before the main content of your page.  "
+"The area will only appear if you add a widget.  You can use this area to "
+"easily add sharing widgets to the top of your pages."
+
+#: functions.php:199
+msgid "Content Footer Widget Area"
+msgstr "Content Footer Widget Area"
+
+#: functions.php:201
+msgid ""
+"The theme can display widgets just after the main content of your page.  The "
+"area will only appear if you add a widget.  You can use this area to easily "
+"add sharing widgets to the bottom of your pages."
+msgstr ""
+"The theme can display widgets just after the main content of your page.  The "
+"area will only appear if you add a widget.  You can use this area to easily "
+"add sharing widgets to the bottom of your pages."
+
+#: functions.php:295
+msgid "Cell Borders"
+msgstr "Cell Borders"
+
+#: functions.php:346 inc/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr "Install Required Plugins"
+
+#: functions.php:347 inc/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr "Install Plugins"
+
+#: functions.php:348 inc/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installing Plugin: %s"
+
+#: functions.php:349
+msgid "Something went wrong with the plugin API."
+msgstr "Something went wrong with the plugin API."
+
+#: functions.php:360 inc/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr "Return to Required Plugins Installer"
+
+#: functions.php:361 inc/class-tgm-plugin-activation.php:177
+#: inc/class-tgm-plugin-activation.php:1945
+msgid "Plugin activated successfully."
+msgstr "Plugin activated successfully."
+
+#: functions.php:362
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "All plugins installed and activated successfully. %s"
+
+#: inc/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr "Something went wrong."
+
+#: inc/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr "Return to the dashboard"
+
+#: inc/class-tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr "The following plugin was activated successfully:"
+
+#: inc/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "All plugins installed and activated successfully. %1$s"
+
+#: inc/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr "Dismiss this notice"
+
+#: inc/class-tgm-plugin-activation.php:534
+#: inc/class-tgm-plugin-activation.php:2162
+msgid "Return to the Dashboard"
+msgstr "Return to the Dashboard"
+
+#: inc/class-tgm-plugin-activation.php:1169
+msgid "Private Repository"
+msgstr "Private Repository"
+
+#: inc/class-tgm-plugin-activation.php:1172
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: inc/class-tgm-plugin-activation.php:1177
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: inc/class-tgm-plugin-activation.php:1180
+msgid "Required"
+msgstr "Required"
+
+#: inc/class-tgm-plugin-activation.php:1180
+msgid "Recommended"
+msgstr "Recommended"
+
+#: inc/class-tgm-plugin-activation.php:1183
+msgid "Not Installed"
+msgstr "Not Installed"
+
+#: inc/class-tgm-plugin-activation.php:1185
+msgid "Installed But Not Activated"
+msgstr "Installed But Not Activated"
+
+#: inc/class-tgm-plugin-activation.php:1290
+#: inc/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr "Install"
+
+#: inc/class-tgm-plugin-activation.php:1312
+#: inc/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr "Activate"
+
+#: inc/class-tgm-plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+
+#: inc/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr "Source"
+
+#: inc/class-tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr "Type"
+
+#: inc/class-tgm-plugin-activation.php:1380
+msgid "Status"
+msgstr "Status"
+
+#: inc/class-tgm-plugin-activation.php:1928
+msgid "Install package not available."
+msgstr "Install package not available."
+
+#: inc/class-tgm-plugin-activation.php:1929
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+
+#: inc/class-tgm-plugin-activation.php:1930
+msgid "Unpacking the package&#8230;"
+msgstr "Unpacking the package&#8230;"
+
+#: inc/class-tgm-plugin-activation.php:1931
+msgid "Installing the plugin&#8230;"
+msgstr "Installing the plugin&#8230;"
+
+#: inc/class-tgm-plugin-activation.php:1932
+msgid "Plugin install failed."
+msgstr "Plugin install failed."
+
+#: inc/class-tgm-plugin-activation.php:1933
+msgid "Plugin installed successfully."
+msgstr "Plugin installed successfully."
+
+#: inc/class-tgm-plugin-activation.php:1944
+msgid "Plugin activation failed."
+msgstr "Plugin activation failed."
+
+#: inc/class-tgm-plugin-activation.php:2058
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+
+#: inc/class-tgm-plugin-activation.php:2059
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installed and activated successfully."
+
+#: inc/class-tgm-plugin-activation.php:2059
+#: inc/class-tgm-plugin-activation.php:2068
+msgid "Show Details"
+msgstr "Show Details"
+
+#: inc/class-tgm-plugin-activation.php:2059
+#: inc/class-tgm-plugin-activation.php:2068
+msgid "Hide Details"
+msgstr "Hide Details"
+
+#: inc/class-tgm-plugin-activation.php:2060
+msgid "All installations and activations have been completed."
+msgstr "All installations and activations have been completed."
+
+#: inc/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:2065
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+
+#: inc/class-tgm-plugin-activation.php:2066
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "An error occurred while installing %1$s: <strong>%2$s</strong>."
+
+#: inc/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "The installation of %1$s failed."
+
+#: inc/class-tgm-plugin-activation.php:2068
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s installed successfully."
+
+#: inc/class-tgm-plugin-activation.php:2069
+msgid "All installations have been completed."
+msgstr "All installations have been completed."
+
+#: inc/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+#: inc/customizer.php:26
+msgid "UU 2014 - Reset Theme"
+msgstr "UU 2014 - Reset Theme"
+
+#: inc/customizer.php:28
+msgid ""
+"You can reset all the customization settings for the UU2014 theme sections "
+"below but this will not reset standard WordPress settings such as your title "
+"or widget areas.  Please note that you must exit and re-enter the customizer "
+"after making this change before you will be able to change other settings."
+msgstr ""
+"You can reset all the customization settings for the UU2014 theme sections "
+"below but this will not reset standard WordPress settings such as your title "
+"or widget areas.  Please note that you must exit and re-enter the customizer "
+"after making this change before you will be able to change other settings."
+
+#: inc/customizer.php:37
+msgid "Reset all customizations for the UU2014 theme?"
+msgstr "Reset all customizations for the UU2014 theme?"
+
+#: inc/customizer.php:42
+msgid "Yes, please reset immediately"
+msgstr "Yes, please reset immediately"
+
+#: inc/customizer.php:43
+msgid "Not right now"
+msgstr "Not right now"
+
+#: inc/customizer.php:52
+msgid "UU 2014 - Font Sizes"
+msgstr "UU 2014 - Font Sizes"
+
+#: inc/customizer.php:54
+msgid ""
+"You can customize the font sizes for different sections of the theme below"
+msgstr ""
+"You can customize the font sizes for different sections of the theme below"
+
+#: inc/customizer.php:75
+msgid "UU 2014 - Smaller Device Font Sizes"
+msgstr "UU 2014 - Smaller Device Font Sizes"
+
+#: inc/customizer.php:77
+msgid "The sizes below take effect on any screen with up to 782 pixels width"
+msgstr "The sizes below take effect on any screen with up to 782 pixels width"
+
+#: inc/customizer.php:97
+msgid "UU 2014 - Widths"
+msgstr "UU 2014 - Widths"
+
+#: inc/customizer.php:99
+msgid ""
+"You can customize the maximum widths for different sections of the theme "
+"below"
+msgstr ""
+"You can customize the maximum widths for different sections of the theme "
+"below"
+
+#: inc/customizer.php:107
+msgid "Maximum Page Width"
+msgstr "Maximum Page Width"
+
+#: inc/customizer.php:118
+msgid "Maximum Header Width"
+msgstr "Maximum Header Width"
+
+#: inc/customizer.php:129
+msgid "Maximum Menu Width"
+msgstr "Maximum Menu Width"
+
+#: inc/customizer.php:140
+msgid "Maximum Footer Widget Area Width"
+msgstr "Maximum Footer Widget Area Width"
+
+#: inc/customizer.php:151
+msgid "Minimum width in pixels required to show floating widget area?"
+msgstr "Minimum width in pixels required to show floating widget area?"
+
+#: inc/customizer.php:162
+msgid ""
+"Maximum Content Width in pixels? The content width sets the maximum allowed "
+"width for any content in the theme, like oEmbeds and images added to posts."
+msgstr ""
+"Maximum Content Width in pixels? The content width sets the maximum allowed "
+"width for any content in the theme, like oEmbeds and images added to posts."
+
+#: inc/customizer.php:170
+msgid "UU 2014 - Display And Hide Features"
+msgstr "UU 2014 - Display And Hide Features"
+
+#: inc/customizer.php:172
+msgid ""
+"This theme has a number of features that you can choose to display or hide"
+msgstr ""
+"This theme has a number of features that you can choose to display or hide"
+
+#: inc/customizer.php:180
+msgid "Display an image near the title?"
+msgstr "Display an image near the title?"
+
+#: inc/customizer.php:185 inc/customizer.php:201 inc/customizer.php:217
+#: inc/customizer.php:233 inc/customizer.php:249 inc/customizer.php:265
+#: inc/customizer.php:281 inc/customizer.php:297 inc/customizer.php:313
+#: inc/customizer.php:329 inc/customizer.php:345 inc/customizer.php:361
+#: inc/customizer.php:377 inc/customizer.php:393 inc/customizer.php:409
+msgid "Display"
+msgstr "Display"
+
+#: inc/customizer.php:186 inc/customizer.php:202 inc/customizer.php:218
+#: inc/customizer.php:234 inc/customizer.php:250 inc/customizer.php:266
+#: inc/customizer.php:282 inc/customizer.php:298 inc/customizer.php:314
+#: inc/customizer.php:330 inc/customizer.php:346 inc/customizer.php:362
+#: inc/customizer.php:378 inc/customizer.php:394 inc/customizer.php:410
+msgid "Hide"
+msgstr "Hide"
+
+#: inc/customizer.php:196
+msgid "Display an image in the footer?"
+msgstr "Display an image in the footer?"
+
+#: inc/customizer.php:212
+msgid "Display theme image for the website icon(favicon)?"
+msgstr "Display theme image for the website icon(favicon)?"
+
+#: inc/customizer.php:228
+msgid "Display primary sidebar widget area?"
+msgstr "Display primary sidebar widget area?"
+
+#: inc/customizer.php:244
+msgid "Display header widget area?"
+msgstr "Display header widget area?"
+
+#: inc/customizer.php:260
+msgid "Display footer widget area?"
+msgstr "Display footer widget area?"
+
+#: inc/customizer.php:276
+msgid "Display floating widget area?"
+msgstr "Display floating widget area?"
+
+#: inc/customizer.php:292
+msgid "Display comments on pages?"
+msgstr "Display comments on pages?"
+
+#: inc/customizer.php:308
+msgid "Display comments on posts?"
+msgstr "Display comments on posts?"
+
+#: inc/customizer.php:324
+msgid "Display comments on image pages?"
+msgstr "Display comments on image pages?"
+
+#: inc/customizer.php:340
+msgid "Display bylines on posts?"
+msgstr "Display bylines on posts?"
+
+#: inc/customizer.php:356
+msgid "Display \"Posted on ____\" on posts?"
+msgstr "Display \"Posted on ____\" on posts?"
+
+#: inc/customizer.php:372
+msgid "Display post format name on posts?  (Aside, Image, Video, Quote, Link)"
+msgstr "Display post format name on posts?  (Aside, Image, Video, Quote, Link)"
+
+#: inc/customizer.php:388
+msgid "Display categories on posts?"
+msgstr "Display categories on posts?"
+
+#: inc/customizer.php:404
+msgid "Display tags on posts?"
+msgstr "Display tags on posts?"
+
+#: inc/customizer.php:417
+msgid "UU 2014 - Image Selection"
+msgstr "UU 2014 - Image Selection"
+
+#: inc/customizer.php:419
+msgid "You can choose what style of UU image to display in the theme."
+msgstr "You can choose what style of UU image to display in the theme."
+
+#: inc/customizer.php:427
+msgid "Which image should be displayed near the title?"
+msgstr "Which image should be displayed near the title?"
+
+#: inc/customizer.php:433
+msgid "Silver UUA Symbol"
+msgstr "Silver UUA Symbol"
+
+#: inc/customizer.php:434
+msgid "Smaller Silver UUA Symbol"
+msgstr "Smaller Silver UUA Symbol"
+
+#: inc/customizer.php:435
+msgid "Red UUA Symbol"
+msgstr "Red UUA Symbol"
+
+#: inc/customizer.php:436
+msgid "Smaller Red UUA Symbol"
+msgstr "Smaller Red UUA Symbol"
+
+#: inc/customizer.php:446
+msgid "Which image should be displayed in the footer?"
+msgstr "Which image should be displayed in the footer?"
+
+#: inc/customizer.php:451
+msgid "Dark Chalice"
+msgstr "Dark Chalice"
+
+#: inc/customizer.php:452
+msgid "Dark UUA Symbol"
+msgstr "Dark UUA Symbol"
+
+#: inc/customizer.php:462
+msgid "Which image should be used for the website icon(favicon)?"
+msgstr "Which image should be used for the website icon(favicon)?"
+
+#: inc/customizer.php:467
+msgid "New Red UUA Symbol"
+msgstr "New Red UUA Symbol"
+
+#: inc/customizer.php:468
+msgid "Previous Chalice UUA Symbol"
+msgstr "Previous Chalice UUA Symbol"
+
+#: inc/customizer.php:653
+msgid "Default"
+msgstr "Default"
+
+#: inc/customizer.php:660
+msgid "Site Title"
+msgstr "Site Title"
+
+#: inc/customizer.php:667
+msgid "Site Description"
+msgstr "Site Description"
+
+#: inc/customizer.php:674
+msgid "Main Menu"
+msgstr "Main Menu"
+
+#: inc/customizer.php:681
+msgid "Heading 1"
+msgstr "Heading 1"
+
+#: inc/customizer.php:688
+msgid "Heading 2"
+msgstr "Heading 2"
+
+#: inc/customizer.php:695
+msgid "Heading 3"
+msgstr "Heading 3"
+
+#: inc/customizer.php:702
+msgid "Heading 4"
+msgstr "Heading 4"
+
+#: inc/customizer.php:709
+msgid "Heading 5"
+msgstr "Heading 5"
+
+#: inc/customizer.php:716
+msgid "Heading 6"
+msgstr "Heading 6"
+
+#: inc/customizer.php:723
+msgid "Widget Heading 1"
+msgstr "Widget Heading 1"
+
+#: inc/customizer.php:730
+msgid "Widget List Item"
+msgstr "Widget List Item"
+
+#: inc/customizer.php:737
+msgid "Footer Widget Heading 1"
+msgstr "Footer Widget Heading 1"
+
+#: inc/customizer.php:744
+msgid "Site Footer"
+msgstr "Site Footer"
+
+#: inc/customizer.php:751
+msgid "Footer Widget List Item"
+msgstr "Footer Widget List Item"
+
+#: inc/customizer.php:758
+msgid "Header Widget Heading 1"
+msgstr "Header Widget Heading 1"
+
+#: inc/customizer.php:765
+msgid "Header Widget List Item"
+msgstr "Header Widget List Item"
+
+#: inc/customizer.php:772
+msgid "Featured Articles Lite Slide Title"
+msgstr "Featured Articles Lite Slide Title"
+
+#: inc/customizer.php:779
+msgid "Featured Articles Lite Slide Text"
+msgstr "Featured Articles Lite Slide Text"
+
+#: inc/extras.php:65
+#, php-format
+msgid "Page %s"
+msgstr "Page %s"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Older posts"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Newer posts"
+
+#: inc/template-tags.php:107 inc/template-tags.php:113
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:109
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Posted in %1$s"
+
+#: inc/template-tags.php:115
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#: inc/template-tags.php:121
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: inc/template-tags.php:121
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: inc/template-tags.php:121
+msgid "% Comments"
+msgstr "% Comments"
+
+#: inc/template-tags.php:139
+#, php-format
+msgid "Category: %s"
+msgstr "Category: %s"
+
+#: inc/template-tags.php:141
+#, php-format
+msgid "Tag: %s"
+msgstr "Tag: %s"
+
+#: inc/template-tags.php:143
+#, php-format
+msgid "Author: %s"
+msgstr "Author: %s"
+
+#: inc/template-tags.php:145
+#, php-format
+msgid "Year: %s"
+msgstr "Year: %s"
+
+#: inc/template-tags.php:147
+#, php-format
+msgid "Month: %s"
+msgstr "Month: %s"
+
+#: inc/template-tags.php:149
+#, php-format
+msgid "Day: %s"
+msgstr "Day: %s"
+
+#: inc/template-tags.php:171
+#, php-format
+msgid "Archives: %s"
+msgstr "Archives: %s"
+
+#: inc/template-tags.php:175
+#, php-format
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: inc/template-tags.php:177
+msgid "Archives"
+msgstr "Archives"
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Search Results for: %s"
